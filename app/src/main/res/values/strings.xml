@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contoh Constraint Layout</string>
+    <string name="tEmail">Email</string>
+    <string name="tpasswprod">Password</string>
+    <string name="bsigin">Sign-in</string>
+    <string name="button">Button</string>
+</resources>
