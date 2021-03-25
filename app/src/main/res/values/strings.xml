@@ -3,5 +3,9 @@
     <string name="tEmail">Email</string>
     <string name="tpasswprod">Password</string>
     <string name="bsigin">Sign-in</string>
-    <string name="button">Button</string>
+    <string name="btnsigin">OKE</string>
+    <string name="tData">Data Anda</string>
+    <string name="txemail">Ini hasil Email</string>
+    <string name="txpassword">Ini hasil password</string>
+    <string name="labe2">Login Berhasil</string>
 </resources>
